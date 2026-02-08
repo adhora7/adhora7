@@ -1,21 +1,28 @@
-# 👋 Hi, I’m Faria Anowara Adhora
+# Hey there! I'm Faria Anowara Adhora 👋
 
-👩‍💻 I’m passionate about **Electronics Engineering**, **Robotics**, and **Embedded Systems**.  
-📚 Currently exploring **IOT projects**, **Intelligent Machines**, and **PCB design**.  
-🚀 I’m an active member of CUET’s **Mars Rover Electrical Team** and **StarLap Rocket Avionics Team**.  
-🎓 Completed certification in **MATLAB Onramp** and published research on **PCF-Based SPR Sensors**.  
+I'm an electronics engineering student who gets excited about building things that move, think, and connect! Whether it's designing PCBs, programming microcontrollers, or working on robotics projects, I love bringing ideas to life.
 
-🔭 I’m working on building innovative robotics projects and exploring cross-border payment platforms.  
-🌱 Always eager to learn new technologies and improve my coding and hardware skills.  
-🤝 Open to collaboration on **IoT**, **robotics**, and **embedded systems** projects.  
+## What I'm up to these days
+Right now, I'm diving deep into IoT projects and intelligent machines while balancing my coursework. I'm lucky to be part of two amazing teams at CUET – working on electrical systems for our Mars Rover and avionics for the StarLap Rocket project. Both have taught me so much about real-world engineering challenges!
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/faria-anowara-adhora)  
-🌐 Check out my portfolio: [GitHub Portfolio](https://github.com/adhora7/My-Portfolio)  
+## Some things I've done
+- Published research paper on PCF-Based SPR Sensors
+- Designed custom PCBs for various projects
+- Built several robotics and embedded systems projects
 
-⚡ Fun fact: I love trekking and exploring new places in nature!  
+## What keeps me curious
+I'm always learning something new – lately it's been about cross-border payment platforms and how to make robotics more intelligent. If it involves electronics, code, or making hardware do cool things, I'm probably interested!
+
+## Let's connect!
+I'm always up for collaborating on IoT, robotics, or embedded systems projects. If you're working on something interesting or just want to chat about tech, feel free to reach out!
+
+📧 [LinkedIn](https://www.linkedin.com/in/faria-anowara-adhora)  
+💼 [Portfolio](https://github.com/adhora7/My-Portfolio)
+
+**Fun fact:** When I'm not tinkering with circuits or writing code, you'll find me trekking and exploring nature. There's something about being outdoors that refreshes my mind and brings new perspectives!
 
 ---
 
-*Thanks for visiting my profile!*  
+*Thanks for stopping by! Happy to connect and share ideas.* ✨  
 
 
