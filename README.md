@@ -6,7 +6,7 @@ I'm an electronics engineering student who gets excited about building things th
 Right now, I'm diving deep into IoT projects and intelligent machines while balancing my coursework. I'm lucky to be part of two amazing teams at CUET – working on electrical systems for our Mars Rover and avionics for the StarLap Rocket project. Both have taught me so much about real-world engineering challenges!
 
 ## Some things I've done
-- Published research paper on PCF-Based SPR Sensors
+- Published research paper on PCF-Based SPR Sensors & Wireless Ignition System
 - Designed custom PCBs for various projects
 - Built several robotics and embedded systems projects
 
